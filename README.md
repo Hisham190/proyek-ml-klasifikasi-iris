@@ -68,7 +68,6 @@ proyek-ml-klasifikasi-iris/
 ├── app.py
 ├── train_model.py
 ├── requirements.txt
-├── script_presentasi.md
 │
 ├── data/
 │   └── iris_dataset.csv
